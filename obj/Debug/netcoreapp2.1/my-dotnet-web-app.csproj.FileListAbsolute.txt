@@ -1,0 +1,14 @@
+/home/felipe/projects/personal/azure/my-dotnet-web-app/bin/Debug/netcoreapp2.1/my-dotnet-web-app.deps.json
+/home/felipe/projects/personal/azure/my-dotnet-web-app/bin/Debug/netcoreapp2.1/my-dotnet-web-app.runtimeconfig.json
+/home/felipe/projects/personal/azure/my-dotnet-web-app/bin/Debug/netcoreapp2.1/my-dotnet-web-app.runtimeconfig.dev.json
+/home/felipe/projects/personal/azure/my-dotnet-web-app/bin/Debug/netcoreapp2.1/my-dotnet-web-app.dll
+/home/felipe/projects/personal/azure/my-dotnet-web-app/bin/Debug/netcoreapp2.1/my-dotnet-web-app.pdb
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.csprojAssemblyReference.cache
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.csproj.CoreCompileInputs.cache
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.RazorAssemblyInfo.cache
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.RazorAssemblyInfo.cs
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.AssemblyInfoInputs.cache
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.AssemblyInfo.cs
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.RazorTargetAssemblyInfo.cache
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.dll
+/home/felipe/projects/personal/azure/my-dotnet-web-app/obj/Debug/netcoreapp2.1/my-dotnet-web-app.pdb
